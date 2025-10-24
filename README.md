@@ -6,6 +6,8 @@ This is a part of pipeline codes to determine the association between candidate 
 3. There is an example of output image file named 'Rplot_forestplot_example1.png'
 
 During the process of the association analysis, you would see the progress like the following: 
+```
 Running: phenotype = Biomarker_1 | variant = chr1.98096704.T.C_T
 Running: phenotype = Biomarker_1 | variant = chr1.177916103.C.T_C
 Running: phenotype = Biomarker_1 | variant = chr1.188520686.A.C_A
+```
